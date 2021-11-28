@@ -1,7 +1,7 @@
 - 👋 Hi, I’m NMI
 - 👀 I’m interested in low level programing and data science. 
 - 🌱 I’m currently learning rust and C.
-- 💞️ I’m looking to collaborate on efficiente and safe big data handling and/or distributed file systems.
+- 💞️ I’m looking to collaborate on efficient and safe big data handling and/or distributed file systems.
 - 📫 How to reach me: 82colos@gmail.com
 
 <!---
